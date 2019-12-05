@@ -1,0 +1,7 @@
+*.csproj
+*.sln
+Fix_myproject/Library/
+Fix_myproject/obj/
+Fix_myproject/Builds/
+Fix_myproject/Logs/
+Fix_myproject/Temp/
