@@ -8,6 +8,7 @@ namespace FixMyProject.Tools
         public TMPro.TMP_Text text;
         private void Start()
         {
+            Application.targetFrameRate = 1000;
             StartCoroutine(Count());
         }
 
